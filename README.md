@@ -1,2 +1,2 @@
-# mongo-db-scripts
-A repo containing a useful mongoDB scripts in Node js, using the Mongoose ODM
+# Mongo DB Scripts
+A repo containing a useful set of mongoDB scripts in Node js, using the Mongoose ODM.
